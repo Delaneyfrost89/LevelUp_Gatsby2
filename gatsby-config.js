@@ -42,6 +42,7 @@ module.exports = {
     //'gatsby-transformer-remark-frontmatter',
     'gatsby-plugin-styled-components',
     'gatsby-plugin-sharp',
-    'gatsby-transformer-sharp'
+    'gatsby-transformer-sharp',
+    'gatsby-plugin-netlify'
   ],
 }
